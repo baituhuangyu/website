@@ -1,0 +1,7 @@
+1、django-admin.py startproject website
+2、django-admin.py startapp blog
+3、修改了文件：seting.py,urls.py
+4、定义一个index，在blog/views.py
+5、创建了模板，blog/templates/index.html
+6、view.py文件修改
+7、manage.py runserver
